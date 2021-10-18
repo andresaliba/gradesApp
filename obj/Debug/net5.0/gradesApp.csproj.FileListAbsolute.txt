@@ -1,0 +1,296 @@
+/Users/seanmorrow/OneDrive - Nova Scotia Community College/_workspace/INET2005 Web Application Programming I/unit03/3-1/gradesAppDone/bin/Debug/net5.0/appsettings.Development.json
+/Users/seanmorrow/OneDrive - Nova Scotia Community College/_workspace/INET2005 Web Application Programming I/unit03/3-1/gradesAppDone/bin/Debug/net5.0/appsettings.json
+/Users/seanmorrow/OneDrive - Nova Scotia Community College/_workspace/INET2005 Web Application Programming I/unit03/3-1/gradesAppDone/bin/Debug/net5.0/gradesApp.deps.json
+/Users/seanmorrow/OneDrive - Nova Scotia Community College/_workspace/INET2005 Web Application Programming I/unit03/3-1/gradesAppDone/bin/Debug/net5.0/gradesApp.runtimeconfig.json
+/Users/seanmorrow/OneDrive - Nova Scotia Community College/_workspace/INET2005 Web Application Programming I/unit03/3-1/gradesAppDone/bin/Debug/net5.0/gradesApp.runtimeconfig.dev.json
+/Users/seanmorrow/OneDrive - Nova Scotia Community College/_workspace/INET2005 Web Application Programming I/unit03/3-1/gradesAppDone/bin/Debug/net5.0/gradesApp.dll
+/Users/seanmorrow/OneDrive - Nova Scotia Community College/_workspace/INET2005 Web Application Programming I/unit03/3-1/gradesAppDone/bin/Debug/net5.0/ref/gradesApp.dll
+/Users/seanmorrow/OneDrive - Nova Scotia Community College/_workspace/INET2005 Web Application Programming I/unit03/3-1/gradesAppDone/bin/Debug/net5.0/gradesApp.pdb
+/Users/seanmorrow/OneDrive - Nova Scotia Community College/_workspace/INET2005 Web Application Programming I/unit03/3-1/gradesAppDone/bin/Debug/net5.0/gradesApp.Views.dll
+/Users/seanmorrow/OneDrive - Nova Scotia Community College/_workspace/INET2005 Web Application Programming I/unit03/3-1/gradesAppDone/bin/Debug/net5.0/gradesApp.Views.pdb
+/Users/seanmorrow/OneDrive - Nova Scotia Community College/_workspace/INET2005 Web Application Programming I/unit03/3-1/gradesAppDone/obj/Debug/net5.0/gradesApp.csprojAssemblyReference.cache
+/Users/seanmorrow/OneDrive - Nova Scotia Community College/_workspace/INET2005 Web Application Programming I/unit03/3-1/gradesAppDone/obj/Debug/net5.0/gradesApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/seanmorrow/OneDrive - Nova Scotia Community College/_workspace/INET2005 Web Application Programming I/unit03/3-1/gradesAppDone/obj/Debug/net5.0/gradesApp.AssemblyInfoInputs.cache
+/Users/seanmorrow/OneDrive - Nova Scotia Community College/_workspace/INET2005 Web Application Programming I/unit03/3-1/gradesAppDone/obj/Debug/net5.0/gradesApp.AssemblyInfo.cs
+/Users/seanmorrow/OneDrive - Nova Scotia Community College/_workspace/INET2005 Web Application Programming I/unit03/3-1/gradesAppDone/obj/Debug/net5.0/gradesApp.csproj.CoreCompileInputs.cache
+/Users/seanmorrow/OneDrive - Nova Scotia Community College/_workspace/INET2005 Web Application Programming I/unit03/3-1/gradesAppDone/obj/Debug/net5.0/gradesApp.MvcApplicationPartsAssemblyInfo.cache
+/Users/seanmorrow/OneDrive - Nova Scotia Community College/_workspace/INET2005 Web Application Programming I/unit03/3-1/gradesAppDone/obj/Debug/net5.0/gradesApp.RazorAssemblyInfo.cache
+/Users/seanmorrow/OneDrive - Nova Scotia Community College/_workspace/INET2005 Web Application Programming I/unit03/3-1/gradesAppDone/obj/Debug/net5.0/gradesApp.RazorAssemblyInfo.cs
+/Users/seanmorrow/OneDrive - Nova Scotia Community College/_workspace/INET2005 Web Application Programming I/unit03/3-1/gradesAppDone/obj/Debug/net5.0/staticwebassets/gradesApp.StaticWebAssets.Manifest.cache
+/Users/seanmorrow/OneDrive - Nova Scotia Community College/_workspace/INET2005 Web Application Programming I/unit03/3-1/gradesAppDone/obj/Debug/net5.0/staticwebassets/gradesApp.StaticWebAssets.xml
+/Users/seanmorrow/OneDrive - Nova Scotia Community College/_workspace/INET2005 Web Application Programming I/unit03/3-1/gradesAppDone/obj/Debug/net5.0/scopedcss/bundle/gradesApp.styles.css
+/Users/seanmorrow/OneDrive - Nova Scotia Community College/_workspace/INET2005 Web Application Programming I/unit03/3-1/gradesAppDone/obj/Debug/net5.0/gradesApp.TagHelpers.input.cache
+/Users/seanmorrow/OneDrive - Nova Scotia Community College/_workspace/INET2005 Web Application Programming I/unit03/3-1/gradesAppDone/obj/Debug/net5.0/gradesApp.TagHelpers.output.cache
+/Users/seanmorrow/OneDrive - Nova Scotia Community College/_workspace/INET2005 Web Application Programming I/unit03/3-1/gradesAppDone/obj/Debug/net5.0/gradesApp.RazorCoreGenerate.cache
+/Users/seanmorrow/OneDrive - Nova Scotia Community College/_workspace/INET2005 Web Application Programming I/unit03/3-1/gradesAppDone/obj/Debug/net5.0/Razor/Views/Grades/Index.cshtml.g.cs
+/Users/seanmorrow/OneDrive - Nova Scotia Community College/_workspace/INET2005 Web Application Programming I/unit03/3-1/gradesAppDone/obj/Debug/net5.0/Razor/Views/Shared/_Layout.cshtml.g.cs
+/Users/seanmorrow/OneDrive - Nova Scotia Community College/_workspace/INET2005 Web Application Programming I/unit03/3-1/gradesAppDone/obj/Debug/net5.0/Razor/Views/Shared/_ValidationScriptsPartial.cshtml.g.cs
+/Users/seanmorrow/OneDrive - Nova Scotia Community College/_workspace/INET2005 Web Application Programming I/unit03/3-1/gradesAppDone/obj/Debug/net5.0/Razor/Views/_ViewImports.cshtml.g.cs
+/Users/seanmorrow/OneDrive - Nova Scotia Community College/_workspace/INET2005 Web Application Programming I/unit03/3-1/gradesAppDone/obj/Debug/net5.0/Razor/Views/_ViewStart.cshtml.g.cs
+/Users/seanmorrow/OneDrive - Nova Scotia Community College/_workspace/INET2005 Web Application Programming I/unit03/3-1/gradesAppDone/obj/Debug/net5.0/gradesApp.RazorTargetAssemblyInfo.cache
+/Users/seanmorrow/OneDrive - Nova Scotia Community College/_workspace/INET2005 Web Application Programming I/unit03/3-1/gradesAppDone/obj/Debug/net5.0/gradesApp.RazorTargetAssemblyInfo.cs
+/Users/seanmorrow/OneDrive - Nova Scotia Community College/_workspace/INET2005 Web Application Programming I/unit03/3-1/gradesAppDone/obj/Debug/net5.0/gradesApp.Views.pdb
+/Users/seanmorrow/OneDrive - Nova Scotia Community College/_workspace/INET2005 Web Application Programming I/unit03/3-1/gradesAppDone/obj/Debug/net5.0/gradesApp.dll
+/Users/seanmorrow/OneDrive - Nova Scotia Community College/_workspace/INET2005 Web Application Programming I/unit03/3-1/gradesAppDone/obj/Debug/net5.0/ref/gradesApp.dll
+/Users/seanmorrow/OneDrive - Nova Scotia Community College/_workspace/INET2005 Web Application Programming I/unit03/3-1/gradesAppDone/obj/Debug/net5.0/gradesApp.pdb
+/Users/seanmorrow/OneDrive - Nova Scotia Community College/_workspace/INET2005 Web Application Programming I/unit03/3-1/gradesAppDone/obj/Debug/net5.0/gradesApp.genruntimeconfig.cache
+/Users/seanmorrow/OneDrive - Nova Scotia Community College/_workspace/INET2005 Web Application Programming I/unit03/3-1/gradesAppDone/obj/Debug/net5.0/gradesApp.csproj.CopyComplete
+/Users/seanmorrow/OneDrive - Nova Scotia Community College/_workspace/INET2005 Web Application Programming I/unit03/3-1/gradesAppDone/bin/Debug/net5.0/BouncyCastle.Crypto.dll
+/Users/seanmorrow/OneDrive - Nova Scotia Community College/_workspace/INET2005 Web Application Programming I/unit03/3-1/gradesAppDone/bin/Debug/net5.0/Google.Protobuf.dll
+/Users/seanmorrow/OneDrive - Nova Scotia Community College/_workspace/INET2005 Web Application Programming I/unit03/3-1/gradesAppDone/bin/Debug/net5.0/K4os.Compression.LZ4.dll
+/Users/seanmorrow/OneDrive - Nova Scotia Community College/_workspace/INET2005 Web Application Programming I/unit03/3-1/gradesAppDone/bin/Debug/net5.0/K4os.Compression.LZ4.Streams.dll
+/Users/seanmorrow/OneDrive - Nova Scotia Community College/_workspace/INET2005 Web Application Programming I/unit03/3-1/gradesAppDone/bin/Debug/net5.0/K4os.Hash.xxHash.dll
+/Users/seanmorrow/OneDrive - Nova Scotia Community College/_workspace/INET2005 Web Application Programming I/unit03/3-1/gradesAppDone/bin/Debug/net5.0/MySql.Data.dll
+/Users/seanmorrow/OneDrive - Nova Scotia Community College/_workspace/INET2005 Web Application Programming I/unit03/3-1/gradesAppDone/bin/Debug/net5.0/Ubiety.Dns.Core.dll
+/Users/seanmorrow/OneDrive - Nova Scotia Community College/_workspace/INET2005 Web Application Programming I/unit03/3-1/gradesAppDone/bin/Debug/net5.0/Zstandard.Net.dll
+/Users/seanmorrow/OneDrive - Nova Scotia Community College/_workspace/INET2005 Web Application Programming I/unit03/3-1/gradesAppDone/bin/Debug/net5.0/System.Configuration.ConfigurationManager.dll
+/Users/seanmorrow/OneDrive - Nova Scotia Community College/_workspace/INET2005 Web Application Programming I/unit03/3-1/gradesAppDone/bin/Debug/net5.0/System.Security.Cryptography.ProtectedData.dll
+/Users/seanmorrow/OneDrive - Nova Scotia Community College/_workspace/INET2005 Web Application Programming I/unit03/3-1/gradesAppDone/bin/Debug/net5.0/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+/Users/seanmorrow/OneDrive - Nova Scotia Community College/_workspace/INET2005 Web Application Programming I/unit03/3-2/gradesAppDone/bin/Debug/net5.0/appsettings.Development.json
+/Users/seanmorrow/OneDrive - Nova Scotia Community College/_workspace/INET2005 Web Application Programming I/unit03/3-2/gradesAppDone/bin/Debug/net5.0/appsettings.json
+/Users/seanmorrow/OneDrive - Nova Scotia Community College/_workspace/INET2005 Web Application Programming I/unit03/3-2/gradesAppDone/bin/Debug/net5.0/gradesApp.deps.json
+/Users/seanmorrow/OneDrive - Nova Scotia Community College/_workspace/INET2005 Web Application Programming I/unit03/3-2/gradesAppDone/bin/Debug/net5.0/gradesApp.runtimeconfig.json
+/Users/seanmorrow/OneDrive - Nova Scotia Community College/_workspace/INET2005 Web Application Programming I/unit03/3-2/gradesAppDone/bin/Debug/net5.0/gradesApp.runtimeconfig.dev.json
+/Users/seanmorrow/OneDrive - Nova Scotia Community College/_workspace/INET2005 Web Application Programming I/unit03/3-2/gradesAppDone/bin/Debug/net5.0/gradesApp.dll
+/Users/seanmorrow/OneDrive - Nova Scotia Community College/_workspace/INET2005 Web Application Programming I/unit03/3-2/gradesAppDone/bin/Debug/net5.0/ref/gradesApp.dll
+/Users/seanmorrow/OneDrive - Nova Scotia Community College/_workspace/INET2005 Web Application Programming I/unit03/3-2/gradesAppDone/bin/Debug/net5.0/gradesApp.pdb
+/Users/seanmorrow/OneDrive - Nova Scotia Community College/_workspace/INET2005 Web Application Programming I/unit03/3-2/gradesAppDone/bin/Debug/net5.0/gradesApp.Views.dll
+/Users/seanmorrow/OneDrive - Nova Scotia Community College/_workspace/INET2005 Web Application Programming I/unit03/3-2/gradesAppDone/bin/Debug/net5.0/gradesApp.Views.pdb
+/Users/seanmorrow/OneDrive - Nova Scotia Community College/_workspace/INET2005 Web Application Programming I/unit03/3-2/gradesAppDone/bin/Debug/net5.0/BouncyCastle.Crypto.dll
+/Users/seanmorrow/OneDrive - Nova Scotia Community College/_workspace/INET2005 Web Application Programming I/unit03/3-2/gradesAppDone/bin/Debug/net5.0/Google.Protobuf.dll
+/Users/seanmorrow/OneDrive - Nova Scotia Community College/_workspace/INET2005 Web Application Programming I/unit03/3-2/gradesAppDone/bin/Debug/net5.0/K4os.Compression.LZ4.dll
+/Users/seanmorrow/OneDrive - Nova Scotia Community College/_workspace/INET2005 Web Application Programming I/unit03/3-2/gradesAppDone/bin/Debug/net5.0/K4os.Compression.LZ4.Streams.dll
+/Users/seanmorrow/OneDrive - Nova Scotia Community College/_workspace/INET2005 Web Application Programming I/unit03/3-2/gradesAppDone/bin/Debug/net5.0/K4os.Hash.xxHash.dll
+/Users/seanmorrow/OneDrive - Nova Scotia Community College/_workspace/INET2005 Web Application Programming I/unit03/3-2/gradesAppDone/bin/Debug/net5.0/MySql.Data.dll
+/Users/seanmorrow/OneDrive - Nova Scotia Community College/_workspace/INET2005 Web Application Programming I/unit03/3-2/gradesAppDone/bin/Debug/net5.0/Ubiety.Dns.Core.dll
+/Users/seanmorrow/OneDrive - Nova Scotia Community College/_workspace/INET2005 Web Application Programming I/unit03/3-2/gradesAppDone/bin/Debug/net5.0/Zstandard.Net.dll
+/Users/seanmorrow/OneDrive - Nova Scotia Community College/_workspace/INET2005 Web Application Programming I/unit03/3-2/gradesAppDone/bin/Debug/net5.0/System.Configuration.ConfigurationManager.dll
+/Users/seanmorrow/OneDrive - Nova Scotia Community College/_workspace/INET2005 Web Application Programming I/unit03/3-2/gradesAppDone/bin/Debug/net5.0/System.Security.Cryptography.ProtectedData.dll
+/Users/seanmorrow/OneDrive - Nova Scotia Community College/_workspace/INET2005 Web Application Programming I/unit03/3-2/gradesAppDone/bin/Debug/net5.0/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+/Users/seanmorrow/OneDrive - Nova Scotia Community College/_workspace/INET2005 Web Application Programming I/unit03/3-2/gradesAppDone/obj/Debug/net5.0/gradesApp.csprojAssemblyReference.cache
+/Users/seanmorrow/OneDrive - Nova Scotia Community College/_workspace/INET2005 Web Application Programming I/unit03/3-2/gradesAppDone/obj/Debug/net5.0/gradesApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/seanmorrow/OneDrive - Nova Scotia Community College/_workspace/INET2005 Web Application Programming I/unit03/3-2/gradesAppDone/obj/Debug/net5.0/gradesApp.AssemblyInfoInputs.cache
+/Users/seanmorrow/OneDrive - Nova Scotia Community College/_workspace/INET2005 Web Application Programming I/unit03/3-2/gradesAppDone/obj/Debug/net5.0/gradesApp.AssemblyInfo.cs
+/Users/seanmorrow/OneDrive - Nova Scotia Community College/_workspace/INET2005 Web Application Programming I/unit03/3-2/gradesAppDone/obj/Debug/net5.0/gradesApp.csproj.CoreCompileInputs.cache
+/Users/seanmorrow/OneDrive - Nova Scotia Community College/_workspace/INET2005 Web Application Programming I/unit03/3-2/gradesAppDone/obj/Debug/net5.0/gradesApp.MvcApplicationPartsAssemblyInfo.cache
+/Users/seanmorrow/OneDrive - Nova Scotia Community College/_workspace/INET2005 Web Application Programming I/unit03/3-2/gradesAppDone/obj/Debug/net5.0/gradesApp.RazorAssemblyInfo.cache
+/Users/seanmorrow/OneDrive - Nova Scotia Community College/_workspace/INET2005 Web Application Programming I/unit03/3-2/gradesAppDone/obj/Debug/net5.0/gradesApp.RazorAssemblyInfo.cs
+/Users/seanmorrow/OneDrive - Nova Scotia Community College/_workspace/INET2005 Web Application Programming I/unit03/3-2/gradesAppDone/obj/Debug/net5.0/staticwebassets/gradesApp.StaticWebAssets.Manifest.cache
+/Users/seanmorrow/OneDrive - Nova Scotia Community College/_workspace/INET2005 Web Application Programming I/unit03/3-2/gradesAppDone/obj/Debug/net5.0/staticwebassets/gradesApp.StaticWebAssets.xml
+/Users/seanmorrow/OneDrive - Nova Scotia Community College/_workspace/INET2005 Web Application Programming I/unit03/3-2/gradesAppDone/obj/Debug/net5.0/scopedcss/bundle/gradesApp.styles.css
+/Users/seanmorrow/OneDrive - Nova Scotia Community College/_workspace/INET2005 Web Application Programming I/unit03/3-2/gradesAppDone/obj/Debug/net5.0/gradesApp.TagHelpers.input.cache
+/Users/seanmorrow/OneDrive - Nova Scotia Community College/_workspace/INET2005 Web Application Programming I/unit03/3-2/gradesAppDone/obj/Debug/net5.0/gradesApp.TagHelpers.output.cache
+/Users/seanmorrow/OneDrive - Nova Scotia Community College/_workspace/INET2005 Web Application Programming I/unit03/3-2/gradesAppDone/obj/Debug/net5.0/gradesApp.RazorCoreGenerate.cache
+/Users/seanmorrow/OneDrive - Nova Scotia Community College/_workspace/INET2005 Web Application Programming I/unit03/3-2/gradesAppDone/obj/Debug/net5.0/Razor/Views/Grades/Index.cshtml.g.cs
+/Users/seanmorrow/OneDrive - Nova Scotia Community College/_workspace/INET2005 Web Application Programming I/unit03/3-2/gradesAppDone/obj/Debug/net5.0/Razor/Views/Shared/_Layout.cshtml.g.cs
+/Users/seanmorrow/OneDrive - Nova Scotia Community College/_workspace/INET2005 Web Application Programming I/unit03/3-2/gradesAppDone/obj/Debug/net5.0/Razor/Views/Shared/_ValidationScriptsPartial.cshtml.g.cs
+/Users/seanmorrow/OneDrive - Nova Scotia Community College/_workspace/INET2005 Web Application Programming I/unit03/3-2/gradesAppDone/obj/Debug/net5.0/Razor/Views/_ViewImports.cshtml.g.cs
+/Users/seanmorrow/OneDrive - Nova Scotia Community College/_workspace/INET2005 Web Application Programming I/unit03/3-2/gradesAppDone/obj/Debug/net5.0/Razor/Views/_ViewStart.cshtml.g.cs
+/Users/seanmorrow/OneDrive - Nova Scotia Community College/_workspace/INET2005 Web Application Programming I/unit03/3-2/gradesAppDone/obj/Debug/net5.0/gradesApp.RazorTargetAssemblyInfo.cache
+/Users/seanmorrow/OneDrive - Nova Scotia Community College/_workspace/INET2005 Web Application Programming I/unit03/3-2/gradesAppDone/obj/Debug/net5.0/gradesApp.RazorTargetAssemblyInfo.cs
+/Users/seanmorrow/OneDrive - Nova Scotia Community College/_workspace/INET2005 Web Application Programming I/unit03/3-2/gradesAppDone/obj/Debug/net5.0/gradesApp.Views.pdb
+/Users/seanmorrow/OneDrive - Nova Scotia Community College/_workspace/INET2005 Web Application Programming I/unit03/3-2/gradesAppDone/obj/Debug/net5.0/gradesApp.csproj.CopyComplete
+/Users/seanmorrow/OneDrive - Nova Scotia Community College/_workspace/INET2005 Web Application Programming I/unit03/3-2/gradesAppDone/obj/Debug/net5.0/gradesApp.dll
+/Users/seanmorrow/OneDrive - Nova Scotia Community College/_workspace/INET2005 Web Application Programming I/unit03/3-2/gradesAppDone/obj/Debug/net5.0/ref/gradesApp.dll
+/Users/seanmorrow/OneDrive - Nova Scotia Community College/_workspace/INET2005 Web Application Programming I/unit03/3-2/gradesAppDone/obj/Debug/net5.0/gradesApp.pdb
+/Users/seanmorrow/OneDrive - Nova Scotia Community College/_workspace/INET2005 Web Application Programming I/unit03/3-2/gradesAppDone/obj/Debug/net5.0/gradesApp.genruntimeconfig.cache
+/Users/seanmorrow/OneDrive - Nova Scotia Community College/_workspace/INET2005 Web Application Programming I/unit03/3-2/gradesAppDone/obj/Debug/net5.0/Razor/Views/Grades/Details.cshtml.g.cs
+/Users/seanmorrow/OneDrive - Nova Scotia Community College/_workspace/INET2005 Web Application Programming I/unit03/3-3/gradesAppDone/bin/Debug/net5.0/appsettings.Development.json
+/Users/seanmorrow/OneDrive - Nova Scotia Community College/_workspace/INET2005 Web Application Programming I/unit03/3-3/gradesAppDone/bin/Debug/net5.0/appsettings.json
+/Users/seanmorrow/OneDrive - Nova Scotia Community College/_workspace/INET2005 Web Application Programming I/unit03/3-3/gradesAppDone/bin/Debug/net5.0/gradesApp.deps.json
+/Users/seanmorrow/OneDrive - Nova Scotia Community College/_workspace/INET2005 Web Application Programming I/unit03/3-3/gradesAppDone/bin/Debug/net5.0/gradesApp.runtimeconfig.json
+/Users/seanmorrow/OneDrive - Nova Scotia Community College/_workspace/INET2005 Web Application Programming I/unit03/3-3/gradesAppDone/bin/Debug/net5.0/gradesApp.runtimeconfig.dev.json
+/Users/seanmorrow/OneDrive - Nova Scotia Community College/_workspace/INET2005 Web Application Programming I/unit03/3-3/gradesAppDone/bin/Debug/net5.0/gradesApp.dll
+/Users/seanmorrow/OneDrive - Nova Scotia Community College/_workspace/INET2005 Web Application Programming I/unit03/3-3/gradesAppDone/bin/Debug/net5.0/ref/gradesApp.dll
+/Users/seanmorrow/OneDrive - Nova Scotia Community College/_workspace/INET2005 Web Application Programming I/unit03/3-3/gradesAppDone/bin/Debug/net5.0/gradesApp.pdb
+/Users/seanmorrow/OneDrive - Nova Scotia Community College/_workspace/INET2005 Web Application Programming I/unit03/3-3/gradesAppDone/bin/Debug/net5.0/gradesApp.Views.dll
+/Users/seanmorrow/OneDrive - Nova Scotia Community College/_workspace/INET2005 Web Application Programming I/unit03/3-3/gradesAppDone/bin/Debug/net5.0/gradesApp.Views.pdb
+/Users/seanmorrow/OneDrive - Nova Scotia Community College/_workspace/INET2005 Web Application Programming I/unit03/3-3/gradesAppDone/bin/Debug/net5.0/BouncyCastle.Crypto.dll
+/Users/seanmorrow/OneDrive - Nova Scotia Community College/_workspace/INET2005 Web Application Programming I/unit03/3-3/gradesAppDone/bin/Debug/net5.0/Google.Protobuf.dll
+/Users/seanmorrow/OneDrive - Nova Scotia Community College/_workspace/INET2005 Web Application Programming I/unit03/3-3/gradesAppDone/bin/Debug/net5.0/K4os.Compression.LZ4.dll
+/Users/seanmorrow/OneDrive - Nova Scotia Community College/_workspace/INET2005 Web Application Programming I/unit03/3-3/gradesAppDone/bin/Debug/net5.0/K4os.Compression.LZ4.Streams.dll
+/Users/seanmorrow/OneDrive - Nova Scotia Community College/_workspace/INET2005 Web Application Programming I/unit03/3-3/gradesAppDone/bin/Debug/net5.0/K4os.Hash.xxHash.dll
+/Users/seanmorrow/OneDrive - Nova Scotia Community College/_workspace/INET2005 Web Application Programming I/unit03/3-3/gradesAppDone/bin/Debug/net5.0/MySql.Data.dll
+/Users/seanmorrow/OneDrive - Nova Scotia Community College/_workspace/INET2005 Web Application Programming I/unit03/3-3/gradesAppDone/bin/Debug/net5.0/Ubiety.Dns.Core.dll
+/Users/seanmorrow/OneDrive - Nova Scotia Community College/_workspace/INET2005 Web Application Programming I/unit03/3-3/gradesAppDone/bin/Debug/net5.0/Zstandard.Net.dll
+/Users/seanmorrow/OneDrive - Nova Scotia Community College/_workspace/INET2005 Web Application Programming I/unit03/3-3/gradesAppDone/bin/Debug/net5.0/System.Configuration.ConfigurationManager.dll
+/Users/seanmorrow/OneDrive - Nova Scotia Community College/_workspace/INET2005 Web Application Programming I/unit03/3-3/gradesAppDone/bin/Debug/net5.0/System.Security.Cryptography.ProtectedData.dll
+/Users/seanmorrow/OneDrive - Nova Scotia Community College/_workspace/INET2005 Web Application Programming I/unit03/3-3/gradesAppDone/bin/Debug/net5.0/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+/Users/seanmorrow/OneDrive - Nova Scotia Community College/_workspace/INET2005 Web Application Programming I/unit03/3-3/gradesAppDone/obj/Debug/net5.0/gradesApp.csprojAssemblyReference.cache
+/Users/seanmorrow/OneDrive - Nova Scotia Community College/_workspace/INET2005 Web Application Programming I/unit03/3-3/gradesAppDone/obj/Debug/net5.0/gradesApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/seanmorrow/OneDrive - Nova Scotia Community College/_workspace/INET2005 Web Application Programming I/unit03/3-3/gradesAppDone/obj/Debug/net5.0/gradesApp.AssemblyInfoInputs.cache
+/Users/seanmorrow/OneDrive - Nova Scotia Community College/_workspace/INET2005 Web Application Programming I/unit03/3-3/gradesAppDone/obj/Debug/net5.0/gradesApp.AssemblyInfo.cs
+/Users/seanmorrow/OneDrive - Nova Scotia Community College/_workspace/INET2005 Web Application Programming I/unit03/3-3/gradesAppDone/obj/Debug/net5.0/gradesApp.csproj.CoreCompileInputs.cache
+/Users/seanmorrow/OneDrive - Nova Scotia Community College/_workspace/INET2005 Web Application Programming I/unit03/3-3/gradesAppDone/obj/Debug/net5.0/gradesApp.MvcApplicationPartsAssemblyInfo.cache
+/Users/seanmorrow/OneDrive - Nova Scotia Community College/_workspace/INET2005 Web Application Programming I/unit03/3-3/gradesAppDone/obj/Debug/net5.0/gradesApp.RazorAssemblyInfo.cache
+/Users/seanmorrow/OneDrive - Nova Scotia Community College/_workspace/INET2005 Web Application Programming I/unit03/3-3/gradesAppDone/obj/Debug/net5.0/gradesApp.RazorAssemblyInfo.cs
+/Users/seanmorrow/OneDrive - Nova Scotia Community College/_workspace/INET2005 Web Application Programming I/unit03/3-3/gradesAppDone/obj/Debug/net5.0/staticwebassets/gradesApp.StaticWebAssets.Manifest.cache
+/Users/seanmorrow/OneDrive - Nova Scotia Community College/_workspace/INET2005 Web Application Programming I/unit03/3-3/gradesAppDone/obj/Debug/net5.0/staticwebassets/gradesApp.StaticWebAssets.xml
+/Users/seanmorrow/OneDrive - Nova Scotia Community College/_workspace/INET2005 Web Application Programming I/unit03/3-3/gradesAppDone/obj/Debug/net5.0/scopedcss/bundle/gradesApp.styles.css
+/Users/seanmorrow/OneDrive - Nova Scotia Community College/_workspace/INET2005 Web Application Programming I/unit03/3-3/gradesAppDone/obj/Debug/net5.0/gradesApp.TagHelpers.input.cache
+/Users/seanmorrow/OneDrive - Nova Scotia Community College/_workspace/INET2005 Web Application Programming I/unit03/3-3/gradesAppDone/obj/Debug/net5.0/gradesApp.TagHelpers.output.cache
+/Users/seanmorrow/OneDrive - Nova Scotia Community College/_workspace/INET2005 Web Application Programming I/unit03/3-3/gradesAppDone/obj/Debug/net5.0/gradesApp.RazorCoreGenerate.cache
+/Users/seanmorrow/OneDrive - Nova Scotia Community College/_workspace/INET2005 Web Application Programming I/unit03/3-3/gradesAppDone/obj/Debug/net5.0/Razor/Views/Grades/Details.cshtml.g.cs
+/Users/seanmorrow/OneDrive - Nova Scotia Community College/_workspace/INET2005 Web Application Programming I/unit03/3-3/gradesAppDone/obj/Debug/net5.0/Razor/Views/Grades/Index.cshtml.g.cs
+/Users/seanmorrow/OneDrive - Nova Scotia Community College/_workspace/INET2005 Web Application Programming I/unit03/3-3/gradesAppDone/obj/Debug/net5.0/Razor/Views/Shared/_Layout.cshtml.g.cs
+/Users/seanmorrow/OneDrive - Nova Scotia Community College/_workspace/INET2005 Web Application Programming I/unit03/3-3/gradesAppDone/obj/Debug/net5.0/Razor/Views/Shared/_ValidationScriptsPartial.cshtml.g.cs
+/Users/seanmorrow/OneDrive - Nova Scotia Community College/_workspace/INET2005 Web Application Programming I/unit03/3-3/gradesAppDone/obj/Debug/net5.0/Razor/Views/_ViewImports.cshtml.g.cs
+/Users/seanmorrow/OneDrive - Nova Scotia Community College/_workspace/INET2005 Web Application Programming I/unit03/3-3/gradesAppDone/obj/Debug/net5.0/Razor/Views/_ViewStart.cshtml.g.cs
+/Users/seanmorrow/OneDrive - Nova Scotia Community College/_workspace/INET2005 Web Application Programming I/unit03/3-3/gradesAppDone/obj/Debug/net5.0/gradesApp.RazorTargetAssemblyInfo.cache
+/Users/seanmorrow/OneDrive - Nova Scotia Community College/_workspace/INET2005 Web Application Programming I/unit03/3-3/gradesAppDone/obj/Debug/net5.0/gradesApp.RazorTargetAssemblyInfo.cs
+/Users/seanmorrow/OneDrive - Nova Scotia Community College/_workspace/INET2005 Web Application Programming I/unit03/3-3/gradesAppDone/obj/Debug/net5.0/gradesApp.Views.pdb
+/Users/seanmorrow/OneDrive - Nova Scotia Community College/_workspace/INET2005 Web Application Programming I/unit03/3-3/gradesAppDone/obj/Debug/net5.0/gradesApp.csproj.CopyComplete
+/Users/seanmorrow/OneDrive - Nova Scotia Community College/_workspace/INET2005 Web Application Programming I/unit03/3-3/gradesAppDone/obj/Debug/net5.0/gradesApp.dll
+/Users/seanmorrow/OneDrive - Nova Scotia Community College/_workspace/INET2005 Web Application Programming I/unit03/3-3/gradesAppDone/obj/Debug/net5.0/ref/gradesApp.dll
+/Users/seanmorrow/OneDrive - Nova Scotia Community College/_workspace/INET2005 Web Application Programming I/unit03/3-3/gradesAppDone/obj/Debug/net5.0/gradesApp.pdb
+/Users/seanmorrow/OneDrive - Nova Scotia Community College/_workspace/INET2005 Web Application Programming I/unit03/3-3/gradesAppDone/obj/Debug/net5.0/gradesApp.genruntimeconfig.cache
+/Users/seanmorrow/OneDrive - Nova Scotia Community College/_workspace/INET2005 Web Application Programming I/unit03/3-4/gradesApp/bin/Debug/net5.0/appsettings.Development.json
+/Users/seanmorrow/OneDrive - Nova Scotia Community College/_workspace/INET2005 Web Application Programming I/unit03/3-4/gradesApp/bin/Debug/net5.0/appsettings.json
+/Users/seanmorrow/OneDrive - Nova Scotia Community College/_workspace/INET2005 Web Application Programming I/unit03/3-4/gradesApp/bin/Debug/net5.0/gradesApp.deps.json
+/Users/seanmorrow/OneDrive - Nova Scotia Community College/_workspace/INET2005 Web Application Programming I/unit03/3-4/gradesApp/bin/Debug/net5.0/gradesApp.runtimeconfig.json
+/Users/seanmorrow/OneDrive - Nova Scotia Community College/_workspace/INET2005 Web Application Programming I/unit03/3-4/gradesApp/bin/Debug/net5.0/gradesApp.runtimeconfig.dev.json
+/Users/seanmorrow/OneDrive - Nova Scotia Community College/_workspace/INET2005 Web Application Programming I/unit03/3-4/gradesApp/bin/Debug/net5.0/gradesApp.dll
+/Users/seanmorrow/OneDrive - Nova Scotia Community College/_workspace/INET2005 Web Application Programming I/unit03/3-4/gradesApp/bin/Debug/net5.0/ref/gradesApp.dll
+/Users/seanmorrow/OneDrive - Nova Scotia Community College/_workspace/INET2005 Web Application Programming I/unit03/3-4/gradesApp/bin/Debug/net5.0/gradesApp.pdb
+/Users/seanmorrow/OneDrive - Nova Scotia Community College/_workspace/INET2005 Web Application Programming I/unit03/3-4/gradesApp/bin/Debug/net5.0/gradesApp.Views.dll
+/Users/seanmorrow/OneDrive - Nova Scotia Community College/_workspace/INET2005 Web Application Programming I/unit03/3-4/gradesApp/bin/Debug/net5.0/gradesApp.Views.pdb
+/Users/seanmorrow/OneDrive - Nova Scotia Community College/_workspace/INET2005 Web Application Programming I/unit03/3-4/gradesApp/bin/Debug/net5.0/BouncyCastle.Crypto.dll
+/Users/seanmorrow/OneDrive - Nova Scotia Community College/_workspace/INET2005 Web Application Programming I/unit03/3-4/gradesApp/bin/Debug/net5.0/Google.Protobuf.dll
+/Users/seanmorrow/OneDrive - Nova Scotia Community College/_workspace/INET2005 Web Application Programming I/unit03/3-4/gradesApp/bin/Debug/net5.0/K4os.Compression.LZ4.dll
+/Users/seanmorrow/OneDrive - Nova Scotia Community College/_workspace/INET2005 Web Application Programming I/unit03/3-4/gradesApp/bin/Debug/net5.0/K4os.Compression.LZ4.Streams.dll
+/Users/seanmorrow/OneDrive - Nova Scotia Community College/_workspace/INET2005 Web Application Programming I/unit03/3-4/gradesApp/bin/Debug/net5.0/K4os.Hash.xxHash.dll
+/Users/seanmorrow/OneDrive - Nova Scotia Community College/_workspace/INET2005 Web Application Programming I/unit03/3-4/gradesApp/bin/Debug/net5.0/MySql.Data.dll
+/Users/seanmorrow/OneDrive - Nova Scotia Community College/_workspace/INET2005 Web Application Programming I/unit03/3-4/gradesApp/bin/Debug/net5.0/Ubiety.Dns.Core.dll
+/Users/seanmorrow/OneDrive - Nova Scotia Community College/_workspace/INET2005 Web Application Programming I/unit03/3-4/gradesApp/bin/Debug/net5.0/Zstandard.Net.dll
+/Users/seanmorrow/OneDrive - Nova Scotia Community College/_workspace/INET2005 Web Application Programming I/unit03/3-4/gradesApp/bin/Debug/net5.0/System.Configuration.ConfigurationManager.dll
+/Users/seanmorrow/OneDrive - Nova Scotia Community College/_workspace/INET2005 Web Application Programming I/unit03/3-4/gradesApp/bin/Debug/net5.0/System.Security.Cryptography.ProtectedData.dll
+/Users/seanmorrow/OneDrive - Nova Scotia Community College/_workspace/INET2005 Web Application Programming I/unit03/3-4/gradesApp/bin/Debug/net5.0/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+/Users/seanmorrow/OneDrive - Nova Scotia Community College/_workspace/INET2005 Web Application Programming I/unit03/3-4/gradesApp/obj/Debug/net5.0/gradesApp.csprojAssemblyReference.cache
+/Users/seanmorrow/OneDrive - Nova Scotia Community College/_workspace/INET2005 Web Application Programming I/unit03/3-4/gradesApp/obj/Debug/net5.0/gradesApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/seanmorrow/OneDrive - Nova Scotia Community College/_workspace/INET2005 Web Application Programming I/unit03/3-4/gradesApp/obj/Debug/net5.0/gradesApp.AssemblyInfoInputs.cache
+/Users/seanmorrow/OneDrive - Nova Scotia Community College/_workspace/INET2005 Web Application Programming I/unit03/3-4/gradesApp/obj/Debug/net5.0/gradesApp.AssemblyInfo.cs
+/Users/seanmorrow/OneDrive - Nova Scotia Community College/_workspace/INET2005 Web Application Programming I/unit03/3-4/gradesApp/obj/Debug/net5.0/gradesApp.csproj.CoreCompileInputs.cache
+/Users/seanmorrow/OneDrive - Nova Scotia Community College/_workspace/INET2005 Web Application Programming I/unit03/3-4/gradesApp/obj/Debug/net5.0/gradesApp.MvcApplicationPartsAssemblyInfo.cache
+/Users/seanmorrow/OneDrive - Nova Scotia Community College/_workspace/INET2005 Web Application Programming I/unit03/3-4/gradesApp/obj/Debug/net5.0/gradesApp.RazorAssemblyInfo.cache
+/Users/seanmorrow/OneDrive - Nova Scotia Community College/_workspace/INET2005 Web Application Programming I/unit03/3-4/gradesApp/obj/Debug/net5.0/gradesApp.RazorAssemblyInfo.cs
+/Users/seanmorrow/OneDrive - Nova Scotia Community College/_workspace/INET2005 Web Application Programming I/unit03/3-4/gradesApp/obj/Debug/net5.0/staticwebassets/gradesApp.StaticWebAssets.Manifest.cache
+/Users/seanmorrow/OneDrive - Nova Scotia Community College/_workspace/INET2005 Web Application Programming I/unit03/3-4/gradesApp/obj/Debug/net5.0/staticwebassets/gradesApp.StaticWebAssets.xml
+/Users/seanmorrow/OneDrive - Nova Scotia Community College/_workspace/INET2005 Web Application Programming I/unit03/3-4/gradesApp/obj/Debug/net5.0/scopedcss/bundle/gradesApp.styles.css
+/Users/seanmorrow/OneDrive - Nova Scotia Community College/_workspace/INET2005 Web Application Programming I/unit03/3-4/gradesApp/obj/Debug/net5.0/gradesApp.TagHelpers.input.cache
+/Users/seanmorrow/OneDrive - Nova Scotia Community College/_workspace/INET2005 Web Application Programming I/unit03/3-4/gradesApp/obj/Debug/net5.0/gradesApp.TagHelpers.output.cache
+/Users/seanmorrow/OneDrive - Nova Scotia Community College/_workspace/INET2005 Web Application Programming I/unit03/3-4/gradesApp/obj/Debug/net5.0/gradesApp.RazorCoreGenerate.cache
+/Users/seanmorrow/OneDrive - Nova Scotia Community College/_workspace/INET2005 Web Application Programming I/unit03/3-4/gradesApp/obj/Debug/net5.0/Razor/Views/Grades/Details.cshtml.g.cs
+/Users/seanmorrow/OneDrive - Nova Scotia Community College/_workspace/INET2005 Web Application Programming I/unit03/3-4/gradesApp/obj/Debug/net5.0/Razor/Views/Grades/Index.cshtml.g.cs
+/Users/seanmorrow/OneDrive - Nova Scotia Community College/_workspace/INET2005 Web Application Programming I/unit03/3-4/gradesApp/obj/Debug/net5.0/Razor/Views/Shared/_Layout.cshtml.g.cs
+/Users/seanmorrow/OneDrive - Nova Scotia Community College/_workspace/INET2005 Web Application Programming I/unit03/3-4/gradesApp/obj/Debug/net5.0/Razor/Views/Shared/_ValidationScriptsPartial.cshtml.g.cs
+/Users/seanmorrow/OneDrive - Nova Scotia Community College/_workspace/INET2005 Web Application Programming I/unit03/3-4/gradesApp/obj/Debug/net5.0/Razor/Views/_ViewImports.cshtml.g.cs
+/Users/seanmorrow/OneDrive - Nova Scotia Community College/_workspace/INET2005 Web Application Programming I/unit03/3-4/gradesApp/obj/Debug/net5.0/Razor/Views/_ViewStart.cshtml.g.cs
+/Users/seanmorrow/OneDrive - Nova Scotia Community College/_workspace/INET2005 Web Application Programming I/unit03/3-4/gradesApp/obj/Debug/net5.0/gradesApp.RazorTargetAssemblyInfo.cache
+/Users/seanmorrow/OneDrive - Nova Scotia Community College/_workspace/INET2005 Web Application Programming I/unit03/3-4/gradesApp/obj/Debug/net5.0/gradesApp.RazorTargetAssemblyInfo.cs
+/Users/seanmorrow/OneDrive - Nova Scotia Community College/_workspace/INET2005 Web Application Programming I/unit03/3-4/gradesApp/obj/Debug/net5.0/gradesApp.Views.pdb
+/Users/seanmorrow/OneDrive - Nova Scotia Community College/_workspace/INET2005 Web Application Programming I/unit03/3-4/gradesApp/obj/Debug/net5.0/gradesApp.csproj.CopyComplete
+/Users/seanmorrow/OneDrive - Nova Scotia Community College/_workspace/INET2005 Web Application Programming I/unit03/3-4/gradesApp/obj/Debug/net5.0/gradesApp.dll
+/Users/seanmorrow/OneDrive - Nova Scotia Community College/_workspace/INET2005 Web Application Programming I/unit03/3-4/gradesApp/obj/Debug/net5.0/ref/gradesApp.dll
+/Users/seanmorrow/OneDrive - Nova Scotia Community College/_workspace/INET2005 Web Application Programming I/unit03/3-4/gradesApp/obj/Debug/net5.0/gradesApp.pdb
+/Users/seanmorrow/OneDrive - Nova Scotia Community College/_workspace/INET2005 Web Application Programming I/unit03/3-4/gradesApp/obj/Debug/net5.0/gradesApp.genruntimeconfig.cache
+/Users/seanmorrow/Desktop/gradesApp/bin/Debug/net5.0/appsettings.Development.json
+/Users/seanmorrow/Desktop/gradesApp/bin/Debug/net5.0/appsettings.json
+/Users/seanmorrow/Desktop/gradesApp/bin/Debug/net5.0/gradesApp.deps.json
+/Users/seanmorrow/Desktop/gradesApp/bin/Debug/net5.0/gradesApp.runtimeconfig.json
+/Users/seanmorrow/Desktop/gradesApp/bin/Debug/net5.0/gradesApp.runtimeconfig.dev.json
+/Users/seanmorrow/Desktop/gradesApp/bin/Debug/net5.0/gradesApp.dll
+/Users/seanmorrow/Desktop/gradesApp/bin/Debug/net5.0/ref/gradesApp.dll
+/Users/seanmorrow/Desktop/gradesApp/bin/Debug/net5.0/gradesApp.pdb
+/Users/seanmorrow/Desktop/gradesApp/bin/Debug/net5.0/gradesApp.Views.dll
+/Users/seanmorrow/Desktop/gradesApp/bin/Debug/net5.0/gradesApp.Views.pdb
+/Users/seanmorrow/Desktop/gradesApp/bin/Debug/net5.0/BouncyCastle.Crypto.dll
+/Users/seanmorrow/Desktop/gradesApp/bin/Debug/net5.0/Google.Protobuf.dll
+/Users/seanmorrow/Desktop/gradesApp/bin/Debug/net5.0/K4os.Compression.LZ4.dll
+/Users/seanmorrow/Desktop/gradesApp/bin/Debug/net5.0/K4os.Compression.LZ4.Streams.dll
+/Users/seanmorrow/Desktop/gradesApp/bin/Debug/net5.0/K4os.Hash.xxHash.dll
+/Users/seanmorrow/Desktop/gradesApp/bin/Debug/net5.0/MySql.Data.dll
+/Users/seanmorrow/Desktop/gradesApp/bin/Debug/net5.0/Ubiety.Dns.Core.dll
+/Users/seanmorrow/Desktop/gradesApp/bin/Debug/net5.0/Zstandard.Net.dll
+/Users/seanmorrow/Desktop/gradesApp/bin/Debug/net5.0/System.Configuration.ConfigurationManager.dll
+/Users/seanmorrow/Desktop/gradesApp/bin/Debug/net5.0/System.Security.Cryptography.ProtectedData.dll
+/Users/seanmorrow/Desktop/gradesApp/bin/Debug/net5.0/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+/Users/seanmorrow/Desktop/gradesApp/obj/Debug/net5.0/gradesApp.csprojAssemblyReference.cache
+/Users/seanmorrow/Desktop/gradesApp/obj/Debug/net5.0/gradesApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/seanmorrow/Desktop/gradesApp/obj/Debug/net5.0/gradesApp.AssemblyInfoInputs.cache
+/Users/seanmorrow/Desktop/gradesApp/obj/Debug/net5.0/gradesApp.AssemblyInfo.cs
+/Users/seanmorrow/Desktop/gradesApp/obj/Debug/net5.0/gradesApp.csproj.CoreCompileInputs.cache
+/Users/seanmorrow/Desktop/gradesApp/obj/Debug/net5.0/gradesApp.MvcApplicationPartsAssemblyInfo.cache
+/Users/seanmorrow/Desktop/gradesApp/obj/Debug/net5.0/gradesApp.RazorAssemblyInfo.cache
+/Users/seanmorrow/Desktop/gradesApp/obj/Debug/net5.0/gradesApp.RazorAssemblyInfo.cs
+/Users/seanmorrow/Desktop/gradesApp/obj/Debug/net5.0/staticwebassets/gradesApp.StaticWebAssets.Manifest.cache
+/Users/seanmorrow/Desktop/gradesApp/obj/Debug/net5.0/staticwebassets/gradesApp.StaticWebAssets.xml
+/Users/seanmorrow/Desktop/gradesApp/obj/Debug/net5.0/scopedcss/bundle/gradesApp.styles.css
+/Users/seanmorrow/Desktop/gradesApp/obj/Debug/net5.0/gradesApp.TagHelpers.input.cache
+/Users/seanmorrow/Desktop/gradesApp/obj/Debug/net5.0/gradesApp.TagHelpers.output.cache
+/Users/seanmorrow/Desktop/gradesApp/obj/Debug/net5.0/gradesApp.RazorCoreGenerate.cache
+/Users/seanmorrow/Desktop/gradesApp/obj/Debug/net5.0/Razor/Views/Grades/Details.cshtml.g.cs
+/Users/seanmorrow/Desktop/gradesApp/obj/Debug/net5.0/Razor/Views/Grades/Index.cshtml.g.cs
+/Users/seanmorrow/Desktop/gradesApp/obj/Debug/net5.0/Razor/Views/Shared/_Layout.cshtml.g.cs
+/Users/seanmorrow/Desktop/gradesApp/obj/Debug/net5.0/Razor/Views/Shared/_ValidationScriptsPartial.cshtml.g.cs
+/Users/seanmorrow/Desktop/gradesApp/obj/Debug/net5.0/Razor/Views/_ViewImports.cshtml.g.cs
+/Users/seanmorrow/Desktop/gradesApp/obj/Debug/net5.0/Razor/Views/_ViewStart.cshtml.g.cs
+/Users/seanmorrow/Desktop/gradesApp/obj/Debug/net5.0/gradesApp.RazorTargetAssemblyInfo.cache
+/Users/seanmorrow/Desktop/gradesApp/obj/Debug/net5.0/gradesApp.RazorTargetAssemblyInfo.cs
+/Users/seanmorrow/Desktop/gradesApp/obj/Debug/net5.0/gradesApp.Views.pdb
+/Users/seanmorrow/Desktop/gradesApp/obj/Debug/net5.0/gradesApp.csproj.CopyComplete
+/Users/seanmorrow/Desktop/gradesApp/obj/Debug/net5.0/gradesApp.dll
+/Users/seanmorrow/Desktop/gradesApp/obj/Debug/net5.0/ref/gradesApp.dll
+/Users/seanmorrow/Desktop/gradesApp/obj/Debug/net5.0/gradesApp.pdb
+/Users/seanmorrow/Desktop/gradesApp/obj/Debug/net5.0/gradesApp.genruntimeconfig.cache
+/Users/seanmorrow/Desktop/gradesApp/obj/Debug/net5.0/Razor/Views/Grades/Add.cshtml.g.cs
+F:\Andre\Canada 2.0\NSCC\Year 2\Semester 1\INET2005 - Sean Morrow\Unit 03 - Working with Data\Lesson 4 - Inserting Data\gradesApp\bin\Debug\net5.0\appsettings.Development.json
+F:\Andre\Canada 2.0\NSCC\Year 2\Semester 1\INET2005 - Sean Morrow\Unit 03 - Working with Data\Lesson 4 - Inserting Data\gradesApp\bin\Debug\net5.0\appsettings.json
+F:\Andre\Canada 2.0\NSCC\Year 2\Semester 1\INET2005 - Sean Morrow\Unit 03 - Working with Data\Lesson 4 - Inserting Data\gradesApp\bin\Debug\net5.0\gradesApp.exe
+F:\Andre\Canada 2.0\NSCC\Year 2\Semester 1\INET2005 - Sean Morrow\Unit 03 - Working with Data\Lesson 4 - Inserting Data\gradesApp\bin\Debug\net5.0\gradesApp.deps.json
+F:\Andre\Canada 2.0\NSCC\Year 2\Semester 1\INET2005 - Sean Morrow\Unit 03 - Working with Data\Lesson 4 - Inserting Data\gradesApp\bin\Debug\net5.0\gradesApp.runtimeconfig.json
+F:\Andre\Canada 2.0\NSCC\Year 2\Semester 1\INET2005 - Sean Morrow\Unit 03 - Working with Data\Lesson 4 - Inserting Data\gradesApp\bin\Debug\net5.0\gradesApp.runtimeconfig.dev.json
+F:\Andre\Canada 2.0\NSCC\Year 2\Semester 1\INET2005 - Sean Morrow\Unit 03 - Working with Data\Lesson 4 - Inserting Data\gradesApp\bin\Debug\net5.0\gradesApp.dll
+F:\Andre\Canada 2.0\NSCC\Year 2\Semester 1\INET2005 - Sean Morrow\Unit 03 - Working with Data\Lesson 4 - Inserting Data\gradesApp\bin\Debug\net5.0\ref\gradesApp.dll
+F:\Andre\Canada 2.0\NSCC\Year 2\Semester 1\INET2005 - Sean Morrow\Unit 03 - Working with Data\Lesson 4 - Inserting Data\gradesApp\bin\Debug\net5.0\gradesApp.pdb
+F:\Andre\Canada 2.0\NSCC\Year 2\Semester 1\INET2005 - Sean Morrow\Unit 03 - Working with Data\Lesson 4 - Inserting Data\gradesApp\bin\Debug\net5.0\gradesApp.Views.dll
+F:\Andre\Canada 2.0\NSCC\Year 2\Semester 1\INET2005 - Sean Morrow\Unit 03 - Working with Data\Lesson 4 - Inserting Data\gradesApp\bin\Debug\net5.0\gradesApp.Views.pdb
+F:\Andre\Canada 2.0\NSCC\Year 2\Semester 1\INET2005 - Sean Morrow\Unit 03 - Working with Data\Lesson 4 - Inserting Data\gradesApp\bin\Debug\net5.0\BouncyCastle.Crypto.dll
+F:\Andre\Canada 2.0\NSCC\Year 2\Semester 1\INET2005 - Sean Morrow\Unit 03 - Working with Data\Lesson 4 - Inserting Data\gradesApp\bin\Debug\net5.0\Google.Protobuf.dll
+F:\Andre\Canada 2.0\NSCC\Year 2\Semester 1\INET2005 - Sean Morrow\Unit 03 - Working with Data\Lesson 4 - Inserting Data\gradesApp\bin\Debug\net5.0\K4os.Compression.LZ4.dll
+F:\Andre\Canada 2.0\NSCC\Year 2\Semester 1\INET2005 - Sean Morrow\Unit 03 - Working with Data\Lesson 4 - Inserting Data\gradesApp\bin\Debug\net5.0\K4os.Compression.LZ4.Streams.dll
+F:\Andre\Canada 2.0\NSCC\Year 2\Semester 1\INET2005 - Sean Morrow\Unit 03 - Working with Data\Lesson 4 - Inserting Data\gradesApp\bin\Debug\net5.0\K4os.Hash.xxHash.dll
+F:\Andre\Canada 2.0\NSCC\Year 2\Semester 1\INET2005 - Sean Morrow\Unit 03 - Working with Data\Lesson 4 - Inserting Data\gradesApp\bin\Debug\net5.0\MySql.Data.dll
+F:\Andre\Canada 2.0\NSCC\Year 2\Semester 1\INET2005 - Sean Morrow\Unit 03 - Working with Data\Lesson 4 - Inserting Data\gradesApp\bin\Debug\net5.0\Ubiety.Dns.Core.dll
+F:\Andre\Canada 2.0\NSCC\Year 2\Semester 1\INET2005 - Sean Morrow\Unit 03 - Working with Data\Lesson 4 - Inserting Data\gradesApp\bin\Debug\net5.0\Zstandard.Net.dll
+F:\Andre\Canada 2.0\NSCC\Year 2\Semester 1\INET2005 - Sean Morrow\Unit 03 - Working with Data\Lesson 4 - Inserting Data\gradesApp\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+F:\Andre\Canada 2.0\NSCC\Year 2\Semester 1\INET2005 - Sean Morrow\Unit 03 - Working with Data\Lesson 4 - Inserting Data\gradesApp\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+F:\Andre\Canada 2.0\NSCC\Year 2\Semester 1\INET2005 - Sean Morrow\Unit 03 - Working with Data\Lesson 4 - Inserting Data\gradesApp\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+F:\Andre\Canada 2.0\NSCC\Year 2\Semester 1\INET2005 - Sean Morrow\Unit 03 - Working with Data\Lesson 4 - Inserting Data\gradesApp\obj\Debug\net5.0\gradesApp.csproj.AssemblyReference.cache
+F:\Andre\Canada 2.0\NSCC\Year 2\Semester 1\INET2005 - Sean Morrow\Unit 03 - Working with Data\Lesson 4 - Inserting Data\gradesApp\obj\Debug\net5.0\gradesApp.GeneratedMSBuildEditorConfig.editorconfig
+F:\Andre\Canada 2.0\NSCC\Year 2\Semester 1\INET2005 - Sean Morrow\Unit 03 - Working with Data\Lesson 4 - Inserting Data\gradesApp\obj\Debug\net5.0\gradesApp.AssemblyInfoInputs.cache
+F:\Andre\Canada 2.0\NSCC\Year 2\Semester 1\INET2005 - Sean Morrow\Unit 03 - Working with Data\Lesson 4 - Inserting Data\gradesApp\obj\Debug\net5.0\gradesApp.AssemblyInfo.cs
+F:\Andre\Canada 2.0\NSCC\Year 2\Semester 1\INET2005 - Sean Morrow\Unit 03 - Working with Data\Lesson 4 - Inserting Data\gradesApp\obj\Debug\net5.0\gradesApp.csproj.CoreCompileInputs.cache
+F:\Andre\Canada 2.0\NSCC\Year 2\Semester 1\INET2005 - Sean Morrow\Unit 03 - Working with Data\Lesson 4 - Inserting Data\gradesApp\obj\Debug\net5.0\gradesApp.MvcApplicationPartsAssemblyInfo.cache
+F:\Andre\Canada 2.0\NSCC\Year 2\Semester 1\INET2005 - Sean Morrow\Unit 03 - Working with Data\Lesson 4 - Inserting Data\gradesApp\obj\Debug\net5.0\gradesApp.RazorAssemblyInfo.cache
+F:\Andre\Canada 2.0\NSCC\Year 2\Semester 1\INET2005 - Sean Morrow\Unit 03 - Working with Data\Lesson 4 - Inserting Data\gradesApp\obj\Debug\net5.0\gradesApp.RazorAssemblyInfo.cs
+F:\Andre\Canada 2.0\NSCC\Year 2\Semester 1\INET2005 - Sean Morrow\Unit 03 - Working with Data\Lesson 4 - Inserting Data\gradesApp\obj\Debug\net5.0\staticwebassets\gradesApp.StaticWebAssets.Manifest.cache
+F:\Andre\Canada 2.0\NSCC\Year 2\Semester 1\INET2005 - Sean Morrow\Unit 03 - Working with Data\Lesson 4 - Inserting Data\gradesApp\obj\Debug\net5.0\staticwebassets\gradesApp.StaticWebAssets.xml
+F:\Andre\Canada 2.0\NSCC\Year 2\Semester 1\INET2005 - Sean Morrow\Unit 03 - Working with Data\Lesson 4 - Inserting Data\gradesApp\obj\Debug\net5.0\scopedcss\bundle\gradesApp.styles.css
+F:\Andre\Canada 2.0\NSCC\Year 2\Semester 1\INET2005 - Sean Morrow\Unit 03 - Working with Data\Lesson 4 - Inserting Data\gradesApp\obj\Debug\net5.0\gradesApp.TagHelpers.input.cache
+F:\Andre\Canada 2.0\NSCC\Year 2\Semester 1\INET2005 - Sean Morrow\Unit 03 - Working with Data\Lesson 4 - Inserting Data\gradesApp\obj\Debug\net5.0\gradesApp.TagHelpers.output.cache
+F:\Andre\Canada 2.0\NSCC\Year 2\Semester 1\INET2005 - Sean Morrow\Unit 03 - Working with Data\Lesson 4 - Inserting Data\gradesApp\obj\Debug\net5.0\gradesApp.RazorCoreGenerate.cache
+F:\Andre\Canada 2.0\NSCC\Year 2\Semester 1\INET2005 - Sean Morrow\Unit 03 - Working with Data\Lesson 4 - Inserting Data\gradesApp\obj\Debug\net5.0\Razor\Views\Grades\Add.cshtml.g.cs
+F:\Andre\Canada 2.0\NSCC\Year 2\Semester 1\INET2005 - Sean Morrow\Unit 03 - Working with Data\Lesson 4 - Inserting Data\gradesApp\obj\Debug\net5.0\Razor\Views\Grades\Details.cshtml.g.cs
+F:\Andre\Canada 2.0\NSCC\Year 2\Semester 1\INET2005 - Sean Morrow\Unit 03 - Working with Data\Lesson 4 - Inserting Data\gradesApp\obj\Debug\net5.0\Razor\Views\Grades\Index.cshtml.g.cs
+F:\Andre\Canada 2.0\NSCC\Year 2\Semester 1\INET2005 - Sean Morrow\Unit 03 - Working with Data\Lesson 4 - Inserting Data\gradesApp\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+F:\Andre\Canada 2.0\NSCC\Year 2\Semester 1\INET2005 - Sean Morrow\Unit 03 - Working with Data\Lesson 4 - Inserting Data\gradesApp\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+F:\Andre\Canada 2.0\NSCC\Year 2\Semester 1\INET2005 - Sean Morrow\Unit 03 - Working with Data\Lesson 4 - Inserting Data\gradesApp\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+F:\Andre\Canada 2.0\NSCC\Year 2\Semester 1\INET2005 - Sean Morrow\Unit 03 - Working with Data\Lesson 4 - Inserting Data\gradesApp\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+F:\Andre\Canada 2.0\NSCC\Year 2\Semester 1\INET2005 - Sean Morrow\Unit 03 - Working with Data\Lesson 4 - Inserting Data\gradesApp\obj\Debug\net5.0\gradesApp.RazorTargetAssemblyInfo.cache
+F:\Andre\Canada 2.0\NSCC\Year 2\Semester 1\INET2005 - Sean Morrow\Unit 03 - Working with Data\Lesson 4 - Inserting Data\gradesApp\obj\Debug\net5.0\gradesApp.RazorTargetAssemblyInfo.cs
+F:\Andre\Canada 2.0\NSCC\Year 2\Semester 1\INET2005 - Sean Morrow\Unit 03 - Working with Data\Lesson 4 - Inserting Data\gradesApp\obj\Debug\net5.0\gradesApp.Views.pdb
+F:\Andre\Canada 2.0\NSCC\Year 2\Semester 1\INET2005 - Sean Morrow\Unit 03 - Working with Data\Lesson 4 - Inserting Data\gradesApp\obj\Debug\net5.0\gradesApp.csproj.CopyComplete
+F:\Andre\Canada 2.0\NSCC\Year 2\Semester 1\INET2005 - Sean Morrow\Unit 03 - Working with Data\Lesson 4 - Inserting Data\gradesApp\obj\Debug\net5.0\gradesApp.dll
+F:\Andre\Canada 2.0\NSCC\Year 2\Semester 1\INET2005 - Sean Morrow\Unit 03 - Working with Data\Lesson 4 - Inserting Data\gradesApp\obj\Debug\net5.0\ref\gradesApp.dll
+F:\Andre\Canada 2.0\NSCC\Year 2\Semester 1\INET2005 - Sean Morrow\Unit 03 - Working with Data\Lesson 4 - Inserting Data\gradesApp\obj\Debug\net5.0\gradesApp.pdb
+F:\Andre\Canada 2.0\NSCC\Year 2\Semester 1\INET2005 - Sean Morrow\Unit 03 - Working with Data\Lesson 4 - Inserting Data\gradesApp\obj\Debug\net5.0\gradesApp.genruntimeconfig.cache
